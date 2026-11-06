@@ -1,0 +1,31 @@
+{
+  "manifest_version": "1.0",
+  "org": "ansible-community",
+  "repo": "stats-data",
+  "versions": [
+    {
+      "commit": "3dc4e8ca23e8b9f251707b2255ed21bbc1160472",
+      "parsed_at": "2026-11-06T15:41:15.733042+00:00",
+      "filetree": "filetree/3dc4e8ca23e8b9f251707b2255ed21bbc1160472.nq.gz",
+      "blobs": [
+        "blob/eed99cff210e477b382770bef090b65c6930899a.nq.gz",
+        "blob/e83436a3e91c411cd8248fbcb264b123dcb748f2.nq.gz",
+        "blob/a0a0fdb390079c0c59bddb3596626c655fbcc5a1.nq.gz",
+        "blob/900e2dc312651da5dcd7c54d15dc0514206b821b.nq.gz",
+        "blob/0885eb06e43b23e5ae3dff4af4188d0b61385c8e.nq.gz",
+        "blob/5b25a0a7ec5ae0a3bb962627eafc086fe6561986.nq.gz",
+        "blob/4261b2738d708a4a7b41edda81194a02f2da93c4.nq.gz",
+        "blob/9c2e9801a54d63861af2b37c0d9c6cd488129a14.nq.gz",
+        "blob/4df2b3a31cf154e0470cfd8a24f22f19d0b0a78d.nq.gz",
+        "blob/f2a390c592c4974e97d53c77a1a6fc1c65a82f6b.nq.gz",
+        "blob/083809260326ccf20ed2a4825b6aacca5bd4fea5.nq.gz",
+        "blob/34d1fd5c500309b3f1fad9c6c8bfafc1b0eb89df.nq.gz",
+        "blob/4ec1d62feadf226f482af19d9a7df13bb6b52e55.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
